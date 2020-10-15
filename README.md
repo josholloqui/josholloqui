@@ -1,4 +1,14 @@
 ### Hi there 👋
+Full Stack Software Engineer with a passion for creative and innovated solutions for complex problems with a focus on clean and efficient code. Self-motivated in striving to learn new languages and frameworks to remain agile. I enjoy making, breaking, and making web things more efficient. Dedicated to making an impact in the world, and influencing society through technology.
+
+Strong skills in both frontend, backend web development with a focus in design and functionality.
+
+⁍ Languages: JavaScript, HTML, CSS, NodeJS
+⁍ Frameworks/Libraries: React, Express, REST API
+⁍ Databases: SQL/PostgreSQL
+⁍ Testing Suites: QUnit, Jest
+⁍ Tools: Heroku, Netlify, GitHub, Postman, VS Code
+⁍ Currently Learning: TypeScript and GraphQL
 
 <!--
 **josholloqui/josholloqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
