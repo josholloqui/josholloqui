@@ -4,10 +4,15 @@ Full Stack Software Engineer with a passion for creative and innovated solutions
 Strong skills in both frontend, backend web development with a focus in design and functionality.
 
 ⁍ Languages: JavaScript, HTML, CSS, Node.js, Python
+
 ⁍ Frameworks/Libraries: React, TypeScript, Redux, Gatsby, Next.js, Express, REST API
+
 ⁍ Databases: SQL/PostgreSQL
+
 ⁍ Testing Suites: QUnit, Jest
+
 ⁍ Tools: AWS, Heroku, Netlify, GitHub, GitLab, Jira, Postman, VS Code
+
 ⁍ Currently Learning: Rust
 
 <!--
