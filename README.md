@@ -3,12 +3,12 @@ Full Stack Software Engineer with a passion for creative and innovated solutions
 
 Strong skills in both frontend, backend web development with a focus in design and functionality.
 
-* Languages: JavaScript, HTML, CSS, NodeJS
-* Frameworks/Libraries: React, Express, REST API
-* Databases: SQL/PostgreSQL
-* Testing Suites: QUnit, Jest
-* Tools: Heroku, Netlify, GitHub, Postman, VS Code
-* Currently Learning: TypeScript and GraphQL
+⁍ Languages: JavaScript, HTML, CSS, Node.js, Python
+⁍ Frameworks/Libraries: React, TypeScript, Redux, Gatsby, Next.js, Express, REST API
+⁍ Databases: SQL/PostgreSQL
+⁍ Testing Suites: QUnit, Jest
+⁍ Tools: AWS, Heroku, Netlify, GitHub, GitLab, Jira, Postman, VS Code
+⁍ Currently Learning: Rust
 
 <!--
 **josholloqui/josholloqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
